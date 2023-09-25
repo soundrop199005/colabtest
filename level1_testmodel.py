@@ -10,12 +10,13 @@ Original file is located at
 
 
 #General imports
+from __future__ import print_function
 import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import progressbar
-from __future__ import print_function
+
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import normalize
 from sklearn.decomposition import PCA
