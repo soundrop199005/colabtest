@@ -9,7 +9,7 @@ level1_testmodel.py is the script you can use to test both level1 and level2 mod
 
 UserDoc.pdf is the documentation explaining how to run level1_trainmodel.py and level1_testmodel.py.
 
-Level2.ipynb file is the google colab notebook which shows the work I have done for level2 task, including the data downloading, the training process, the hyper parameter tuning and the model evaluation. Level2 task model uses MobileNetV2 basemodel shallow layers by removing two deep bottlenecks, trained from scratch. 
+Level2.ipynb file is the google colab notebook which shows the work I have done for level2 task, including the data downloading, the training process, the hyper parameter tuning and the model evaluation. Level2 task model uses MobileNetV2 basemodel shallow layers by removing two deep bottleneck blocks, trained from scratch. 
 
 Level2_TrainModel.ipynb is the simplified version of Level2.ipynb which includes the most useful functions with examples. 
 
